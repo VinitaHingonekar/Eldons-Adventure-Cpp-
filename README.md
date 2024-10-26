@@ -1,0 +1,1 @@
+"Forgotten Treasure of the Evergreen - Eldon's Adventure" is a text-based adventure game where players take on the role of Eldon, a brave boy on a quest to defeat the Shadowman, the dark guardian of the legendary treasure. This game combines elements of role-playing and strategy, allowing players to engage in combat, heal, and ultimately seek the treasure map.
